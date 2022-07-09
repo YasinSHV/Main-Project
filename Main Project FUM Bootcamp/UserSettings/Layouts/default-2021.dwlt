@@ -15,11 +15,11 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 43.63636
-    y: 243.49089
+    y: 190.25453
     width: 1206.109
     height: 714.7636
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 15
+  controlID: 39
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -215,8 +215,8 @@ MonoBehaviour:
     y: 0
     width: 692.94543
     height: 393.59998
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 14}
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 285.38177
     height: 664.7636
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -297,7 +297,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 271.41815
-    y: 273.1636
+    y: 219.92726
     width: 690.94543
     height: 372.59998
   m_ViewDataDictionary: {fileID: 0}
@@ -389,7 +389,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 43.63636
-    y: 273.1636
+    y: 219.92726
     width: 226.78181
     height: 372.59998
   m_ViewDataDictionary: {fileID: 0}
@@ -398,10 +398,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8e5d0000
-      m_LastClickedID: 23950
-      m_ExpandedIDs: 06fbffffbc5d0000
+      scrollPos: {x: 0, y: 288.40002}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 0afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -650,9 +650,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -38.166733, y: -16.964874, z: 29.054077}
+    m_Target: {x: -45.08602, y: 0.9359703, z: 35.048836}
     speed: 2
-    m_Value: {x: -38.166733, y: -16.964874, z: 29.054077}
+    m_Value: {x: -45.08602, y: 0.9359703, z: 35.048836}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -699,13 +699,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.23314542, y: 0.3442563, z: -0.088658884, w: -0.9051394}
+    m_Target: {x: -0.17752957, y: 0.32285368, z: -0.061774738, w: -0.92759943}
     speed: 2
-    m_Value: {x: -0.23314461, y: 0.34425512, z: -0.08865858, w: -0.9051363}
+    m_Value: {x: -0.17752886, y: 0.32285237, z: -0.06177449, w: -0.9275957}
   m_Size:
-    m_Target: 34.346725
+    m_Target: 77.20589
     speed: 2
-    m_Value: 34.346725
+    m_Value: 77.20589
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -751,7 +751,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 43.63636
-    y: 666.7636
+    y: 613.5272
     width: 919.72723
     height: 250.16364
   m_ViewDataDictionary: {fileID: 0}
@@ -785,9 +785,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ac7e0000
-    m_LastClickedID: 32428
-    m_ExpandedIDs: 00000000ea5e00000a5f000000ca9a3bffffff7f
+    m_SelectedIDs: 9e600000
+    m_LastClickedID: 24734
+    m_ExpandedIDs: 00000000446000007260000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -815,7 +815,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea5e0000
+    m_ExpandedIDs: 0000000044600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -842,7 +842,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -920,7 +920,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 964.3636
-    y: 273.1636
+    y: 219.92726
     width: 284.38177
     height: 643.7636
   m_ViewDataDictionary: {fileID: 0}
