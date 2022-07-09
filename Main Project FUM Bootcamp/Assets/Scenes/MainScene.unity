@@ -323,7 +323,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh24434
+  m_Name: pb_Mesh31692
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -592,7 +592,6 @@ GameObject:
   - component: {fileID: 602685666}
   - component: {fileID: 602685665}
   - component: {fileID: 602685664}
-  - component: {fileID: 602685663}
   m_Layer: 0
   m_Name: Arch
   m_TagString: Untagged
@@ -600,20 +599,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &602685663
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 602685662}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 53f86e3b19b5fdd42bc49b2c58dd7f2e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 15
-  player: {fileID: 602685669}
 --- !u!64 &602685664
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4934,6 +4919,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 15
   player: {fileID: 678800059}
+  max_acceleration: 1
+  current_acceleration: 0
 --- !u!4 &678800059
 Transform:
   m_ObjectHideFlags: 0
