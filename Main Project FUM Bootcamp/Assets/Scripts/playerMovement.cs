@@ -27,7 +27,7 @@ public class playerMovement : MonoBehaviour
         else if (current_acceleration < 0 && !Input.GetKey("a")) current_acceleration += 0.05f;
         if (current_acceleration > -0.05 && current_acceleration < 0.05) current_acceleration = 0;
 
-        if ((current_acceleration < 0 && player.position.x < -5.2) || (current_acceleration > 0 && player.position.x > 7.8)){
+        if ((current_acceleration < 0 && player.position.x < -5.2) || (current_acceleration > 0 && player.position.x > 5)){
             current_acceleration = 0;
         }
         player.position = new Vector3(player.position.x + current_acceleration*speed*Time.deltaTime, player.position.y, player.position.z);

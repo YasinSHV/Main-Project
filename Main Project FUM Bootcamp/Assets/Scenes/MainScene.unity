@@ -742,6 +742,7 @@ GameObject:
   - component: {fileID: 602685666}
   - component: {fileID: 602685665}
   - component: {fileID: 602685664}
+  - component: {fileID: 602685663}
   m_Layer: 0
   m_Name: Arch
   m_TagString: Untagged
@@ -873,6 +874,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 678800059}
+  - component: {fileID: 678800058}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -892,7 +894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26755923d987caf47b6dbaec824a1d15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 15
+  speed: 20
   player: {fileID: 678800059}
   max_acceleration: 1
   current_acceleration: 0
@@ -905,7 +907,7 @@ Transform:
   m_GameObject: {fileID: 678800057}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.92, z: -11.504}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 0.72}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 602685669}
@@ -1303,7 +1305,7 @@ Transform:
   m_GameObject: {fileID: 1345107443}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: -10.1, z: 0}
-  m_LocalScale: {x: 80, y: 80, z: 1}
+  m_LocalScale: {x: 90, y: 90, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1513,9 +1515,9 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761577144}
   serializedVersion: 2
-  m_Mass: 0.4
+  m_Mass: 0.3
   m_Drag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
