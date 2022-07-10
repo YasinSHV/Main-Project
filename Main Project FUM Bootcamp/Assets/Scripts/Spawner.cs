@@ -12,7 +12,7 @@ public class Spawner : MonoBehaviour
     public GameObject grass;
 
 
-    private void Update()
+    private void FixedUpdate()
     {
         float randPosX = Random.Range(-28f, 28f);
         while ((randPosX > -20f && randPosX < 20f) 

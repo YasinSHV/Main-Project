@@ -21,7 +21,7 @@ public class blockSpawnScript : MonoBehaviour
 
     private void Awake()
     {
-        Vector3 randSpawnPos = new Vector3(startX, 0, 3.5f);
+        Vector3 randSpawnPos = new Vector3(startX, 0, 0.2f);
         Instantiate(brickLayout, randSpawnPos, Quaternion.identity);
     }
     private void Update()
@@ -29,7 +29,7 @@ public class blockSpawnScript : MonoBehaviour
         if (timer > maxTime)
         {
             int x = Random.Range(1, 5);
-            Vector3 randSpawnPos = new Vector3(-4.75f, 1f, 8.7f);
+            Vector3 randSpawnPos = new Vector3(-4.75f, 1f, 7.3f);
             switch (x) 
             {
                 case 1:
