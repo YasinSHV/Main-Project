@@ -22,7 +22,7 @@ namespace Boxophobic.StyledGUI
                 {
                     allLayers[i] = "Missing";
                 }
-                else 
+                else
                 {
                     allLayers[i] = LayerMask.LayerToName(i);
                 }

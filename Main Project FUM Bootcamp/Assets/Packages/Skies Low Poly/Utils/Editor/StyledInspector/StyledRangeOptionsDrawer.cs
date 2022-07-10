@@ -12,7 +12,7 @@ namespace Boxophobic.StyledGUI
 
         public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
         {
-            a = (StyledRangeOptions)attribute;            
+            a = (StyledRangeOptions)attribute;
 
             GUIStyle styleMid = new GUIStyle();
             styleMid.alignment = TextAnchor.MiddleCenter;

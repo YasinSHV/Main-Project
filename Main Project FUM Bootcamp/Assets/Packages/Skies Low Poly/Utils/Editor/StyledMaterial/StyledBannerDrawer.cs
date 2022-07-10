@@ -73,19 +73,19 @@ namespace Boxophobic.StyledGUI
             GUI.Label(bannerFullRect, "<size=14><color=#" + ColorUtility.ToHtmlStringRGB(guiColor) + "><b>" + title + "</b> " + subtitle + "</color></size>", CONSTANT.TitleStyle);
 #endif
 
-//            GUI.color = guiColor;
+            //            GUI.color = guiColor;
 
-//#if AMPLIFY_SHADER_EDITOR
-//            if (GUI.Button(iconRect, CONSTANT.IconEdit, new GUIStyle { alignment = TextAnchor.MiddleCenter }))
-//            {
-//                AmplifyShaderEditor.AmplifyShaderEditorWindow.ConvertShaderToASE(Shader.Find(shader.name));
-//            }
-//#else
-//            if (GUI.Button(iconRect, CONSTANT.IconEdit, new GUIStyle { alignment = TextAnchor.MiddleCenter }))
-//            {     
-//                AssetDatabase.OpenAsset(Shader.Find(shader.name), 1);
-//            }
-//#endif
+            //#if AMPLIFY_SHADER_EDITOR
+            //            if (GUI.Button(iconRect, CONSTANT.IconEdit, new GUIStyle { alignment = TextAnchor.MiddleCenter }))
+            //            {
+            //                AmplifyShaderEditor.AmplifyShaderEditorWindow.ConvertShaderToASE(Shader.Find(shader.name));
+            //            }
+            //#else
+            //            if (GUI.Button(iconRect, CONSTANT.IconEdit, new GUIStyle { alignment = TextAnchor.MiddleCenter }))
+            //            {     
+            //                AssetDatabase.OpenAsset(Shader.Find(shader.name), 1);
+            //            }
+            //#endif
 
             GUI.color = Color.white;
 

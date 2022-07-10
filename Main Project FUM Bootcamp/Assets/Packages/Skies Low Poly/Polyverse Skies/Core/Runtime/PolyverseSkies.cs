@@ -14,7 +14,7 @@ public class PolyverseSkies : StyledMonoBehaviour
     public bool categoryScene;
 
     public GameObject sunDirection;
-	public GameObject moonDirection;
+    public GameObject moonDirection;
 
     [StyledCategory("Time Of Day")]
     public bool categoryTime;
@@ -33,25 +33,25 @@ public class PolyverseSkies : StyledMonoBehaviour
     [StyledSpace(5)]
     public bool styledSpace0;
 
-	void Update ()
+    void Update()
     {
-		if (sunDirection != null)
+        if (sunDirection != null)
         {
-			Shader.SetGlobalVector ("GlobalSunDirection", -sunDirection.transform.forward);
-		}
+            Shader.SetGlobalVector("GlobalSunDirection", -sunDirection.transform.forward);
+        }
         else
         {
-			Shader.SetGlobalVector ("GlobalSunDirection", Vector3.zero);
-		}
+            Shader.SetGlobalVector("GlobalSunDirection", Vector3.zero);
+        }
 
-		if (moonDirection != null)
+        if (moonDirection != null)
         {
-			Shader.SetGlobalVector ("GlobalMoonDirection", -moonDirection.transform.forward);
-		}
+            Shader.SetGlobalVector("GlobalMoonDirection", -moonDirection.transform.forward);
+        }
         else
         {
-			Shader.SetGlobalVector ("GlobalMoonDirection", Vector3.zero);
-		}
+            Shader.SetGlobalVector("GlobalMoonDirection", Vector3.zero);
+        }
 
         if (skyboxDay != null && skyboxNight != null)
         {

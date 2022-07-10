@@ -10,12 +10,12 @@ public class BallMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        rb.AddForce(0,0,startForce);
+        rb.AddForce(0, 0, startForce);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }

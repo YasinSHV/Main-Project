@@ -9,7 +9,7 @@ using UnityEngine;
 #pragma warning disable 1591
 namespace DG.Tweening
 {
-	public static class DOTweenProShortcuts
+    public static class DOTweenProShortcuts
     {
         static DOTweenProShortcuts()
         {
@@ -35,7 +35,8 @@ namespace DG.Tweening
         public static Tweener DOSpiral(
             this Transform target, float duration, Vector3? axis = null, SpiralMode mode = SpiralMode.Expand,
             float speed = 1, float frequency = 10, float depth = 0, bool snapping = false
-        ) {
+        )
+        {
             if (Mathf.Approximately(speed, 0)) speed = 1;
             if (axis == null || axis == Vector3.zero) axis = Vector3.forward;
 
@@ -67,7 +68,8 @@ namespace DG.Tweening
         public static Tweener DOSpiral(
             this Rigidbody target, float duration, Vector3? axis = null, SpiralMode mode = SpiralMode.Expand,
             float speed = 1, float frequency = 10, float depth = 0, bool snapping = false
-        ) {
+        )
+        {
             if (Mathf.Approximately(speed, 0)) speed = 1;
             if (axis == null || axis == Vector3.zero) axis = Vector3.forward;
 
@@ -86,5 +88,5 @@ namespace DG.Tweening
 #endif
 
         #endregion
-	}
+    }
 }

@@ -6,7 +6,7 @@ using Boxophobic.Constants;
 
 namespace Boxophobic.StyledGUI
 {
-    public partial class StyledGUI 
+    public partial class StyledGUI
     {
         public static void DrawWindowCategory(string bannerText)
         {

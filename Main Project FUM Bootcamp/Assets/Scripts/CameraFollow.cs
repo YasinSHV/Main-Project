@@ -8,7 +8,7 @@ public class CameraFollow : MonoBehaviour
 
     private Vector3 cmOffset;
 
-    [Range(0.0001f, 1.0f)]
+    [Range(-1f, 1.0f)]
     public float smoothness = 0.5f;
 
 
@@ -20,11 +20,8 @@ public class CameraFollow : MonoBehaviour
 
     private void LateUpdate()
     {
-       // if (PlayerrTransform.position.x < 4f && PlayerrTransform.position.x > -4f)
-        //{
-            Vector3 newPos = PlayerrTransform.position + cmOffset;
+        Vector3 newPos = PlayerrTransform.position + cmOffset;
 
-            transform.position = Vector3.Slerp(transform.position, newPos, smoothness);
-       // }
+        transform.position = Vector3.Slerp(transform.position, newPos, smoothness);
     }
 }

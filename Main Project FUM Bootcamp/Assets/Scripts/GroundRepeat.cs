@@ -23,11 +23,11 @@ public class GroundRepeat : MonoBehaviour
     }
 
 
-    void Scroll() 
+    void Scroll()
     {
         xScrolling = Time.time * scrollingSpeed;
 
-        Vector2 offset = new Vector2(0f, xScrolling);
+        Vector2 offset = new Vector2(mr.sharedMaterial.mainTextureOffset.x, xScrolling);
 
         mr.sharedMaterial.SetTextureOffset("_MainTex", offset);
 

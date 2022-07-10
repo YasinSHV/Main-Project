@@ -48,7 +48,7 @@ namespace Boxophobic.StyledGUI
                 {
                     bannerColor = new Color(a.colorR, a.colorG, a.colorB, 1f);
                     guiColor = CONSTANT.ColorDarkGray;
-                }                
+                }
             }
             else
             {
