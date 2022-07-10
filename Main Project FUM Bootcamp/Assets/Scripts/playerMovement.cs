@@ -2,15 +2,11 @@ using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
-    public int speed = 15;
+    public static int speed = 15;
     public Transform player;
     public float max_acceleration = 1;
 
     public float current_acceleration = 0;
-    // Start is called before the first frame update
-    void Start()
-    {
-    }
 
     // Update is called once per frame
     void FixedUpdate()

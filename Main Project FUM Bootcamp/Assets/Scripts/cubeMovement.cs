@@ -5,8 +5,7 @@ using UnityEngine;
 public class cubeMovement : MonoBehaviour
 {
     public Transform tr;
-    public float speed = 0.04f;
-
+    public static float speed = 0.2f;
 
     void Update()
     {
