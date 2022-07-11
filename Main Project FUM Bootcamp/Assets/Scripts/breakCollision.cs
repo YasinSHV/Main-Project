@@ -7,6 +7,7 @@ public class breakCollision : MonoBehaviour
     public Rigidbody rb;
     void OnCollisionEnter(Collision col)
     {
+        Vector3 startingPos = transform.position;
         if (col.gameObject.tag == "Block")
         {
             Destroy(col.gameObject, 0.1f);
@@ -19,5 +20,6 @@ public class breakCollision : MonoBehaviour
         {
             Instantiate(wallParticle, gameObject.transform.position, Quaternion.identity);
         }
+/*        endingPos = transform.position;*/
     }
 }

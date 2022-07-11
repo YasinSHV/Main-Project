@@ -16,8 +16,7 @@ public class BallMovement : MonoBehaviour
         rb.AddForce(0, 0, startForce);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
         
         rb.AddForce(rb.velocity.normalized * Time.deltaTime * 5);
