@@ -6,40 +6,7 @@ public class cubeMovement : MonoBehaviour
 {
     public int lives = 0;
     public Transform tr;
-    private float speed = 0.24f;
-    public Material FourLives;
-    public Material ThreeLives;
-    public Material TwoLives;
-    public Material oneLife;
-    public Material fireBall;
-    public Material lockAndLaunch;
-    public Material lifeBlock;
-    public Material ballInc;
-    bool isLifeBlock, isBallIncrease, isFireBall, IsLaunch;
-
-    private void Start()
-    {
-     int Special = Random.Range(1, 90);
-        if (Special > 3 && Special < 9)
-        {
-            isFireBall = true;
-            GetComponent<Renderer>().material = fireBall;
-        }
-        else if (Special > 10 && Special < 14)
-        {
-            IsLaunch = true;
-            GetComponent<Renderer>().material = lockAndLaunch;
-        }
-        else if (Special == 2)
-        {
-            isLifeBlock = true;
-            GetComponent<Renderer>().material = lifeBlock;
-        }
-        else if (Special > 15 && Special < 20)
-        {
-            isBallIncrease = true;
-            GetComponent<Renderer>().material = ballInc;
-        }
+    public static float speed = 0.24f;
 
 
         if (isLifeBlock || isBallIncrease || isFireBall || IsLaunch)
@@ -99,10 +66,5 @@ public class cubeMovement : MonoBehaviour
 
     }
 
-
-    public void ChangeLife() 
-    {
-        lives--;
-    }
 
 }

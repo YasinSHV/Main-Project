@@ -1,23 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
-
 public class BallMovement : MonoBehaviour
 {
-
-    public bool locked = true;
-    public Transform lockPosition;
     public Rigidbody rb;
     public int startForce = -100;
-    public AudioSource music;
-    public GameObject player;
-    public GameObject deathEffect;
-
-    public TextMeshProUGUI LifeText;
-    private int lifeCount = 3;
     private float lastZ = 0;
     private int checkZDelay = 0;
+    public GameObject gameOver;
+    public GameObject retryButton;
+    private bool looseFlag = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,47 +18,29 @@ public class BallMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (!locked){
-            rb.AddForce(rb.velocity.normalized * Time.deltaTime * 5);
+        
+        rb.AddForce(rb.velocity.normalized * Time.deltaTime * 5);
 
-            if (Mathf.Abs(gameObject.transform.position.z-lastZ) < 0.1){
-                checkZDelay++;
-            }
-            else {
-                checkZDelay = 0;
-            }
-
-            if (checkZDelay > 100000*Time.deltaTime){
-                rb.AddForce(0,0,-10);
-            }
-
-
-            if (transform.position.z < -13f)
-            {
-                lifeCount--;
-                LifeText.text = lifeCount.ToString();
-                if (lifeCount == 0)
-                {
-                    Instantiate(deathEffect, player.transform.position, Quaternion.identity);
-                    Time.timeScale = 0.2f;
-                    music.pitch = 0.6f;
-                    player.SetActive(false);
-                    Destroy(this.gameObject);
-                }
-                else
-                {
-                    Instantiate(deathEffect, player.transform.position, Quaternion.identity);
-                    transform.position = new Vector3(0, 0.9f,  -5.22f);
-                    locked = true;
-                }
-            } 
+        if (Mathf.Abs(gameObject.transform.position.z-lastZ) < 0.1){
+            checkZDelay++;
         }
-        else{
-            gameObject.transform.position = lockPosition.position;
+        else {
+            checkZDelay = 0;
         }
 
-        if (Input.GetMouseButton(0)){
-            locked = false;
+        if (checkZDelay > 100000*Time.deltaTime){
+            rb.AddForce(0,0,-10);
+        }
+        lastZ = gameObject.transform.position.z;
+
+        //Losing
+        if (!looseFlag && gameObject.transform.position.z < -15){
+            gameOver.SetActive(true);
+            retryButton.SetActive(true);
+            Time.timeScale = 0.2f;
+            playerMovement.speed = 0;
+            cubeMovement.speed = 0;
+            looseFlag = true;
         }
     }
 }
