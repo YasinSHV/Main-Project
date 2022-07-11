@@ -112,6 +112,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499016582207}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499016582192
 Animator:
   serializedVersion: 4
@@ -244,6 +252,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499022471989}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499022471990
 Animator:
   serializedVersion: 4
@@ -376,6 +392,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499063048365}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499063048366
 Animator:
   serializedVersion: 4
@@ -508,6 +532,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499087811173}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499087811174
 Animator:
   serializedVersion: 4
@@ -640,6 +672,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499115179499}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499115179500
 Animator:
   serializedVersion: 4
@@ -772,6 +812,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499167030989}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499167030990
 Animator:
   serializedVersion: 4
@@ -904,6 +952,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499195155022}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499195155023
 Animator:
   serializedVersion: 4
@@ -1036,6 +1092,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499216962105}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499216962106
 Animator:
   serializedVersion: 4
@@ -1168,6 +1232,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499245064516}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499245064517
 Animator:
   serializedVersion: 4
@@ -1300,6 +1372,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499250781132}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499250781133
 Animator:
   serializedVersion: 4
@@ -1432,6 +1512,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499263759520}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499263759521
 Animator:
   serializedVersion: 4
@@ -1599,6 +1687,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499326206360}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499326206361
 Animator:
   serializedVersion: 4
@@ -1731,6 +1827,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499330386162}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499330386163
 Animator:
   serializedVersion: 4
@@ -1863,6 +1967,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499395677081}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499395677082
 Animator:
   serializedVersion: 4
@@ -1995,6 +2107,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499407743249}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499407743250
 Animator:
   serializedVersion: 4
@@ -2127,6 +2247,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499410581728}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499410581729
 Animator:
   serializedVersion: 4
@@ -2259,6 +2387,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499514949239}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499514949192
 Animator:
   serializedVersion: 4
@@ -2391,6 +2527,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499520033981}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499520033982
 Animator:
   serializedVersion: 4
@@ -2523,6 +2667,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499595066225}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499595066226
 Animator:
   serializedVersion: 4
@@ -2655,6 +2807,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499623180371}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499623180372
 Animator:
   serializedVersion: 4
@@ -2787,6 +2947,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499797258869}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499797258870
 Animator:
   serializedVersion: 4
@@ -2959,6 +3127,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499826134858}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499826134859
 Animator:
   serializedVersion: 4
@@ -3091,6 +3267,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499831388176}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499831388177
 Animator:
   serializedVersion: 4
@@ -3223,6 +3407,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499851996122}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499851996123
 Animator:
   serializedVersion: 4
@@ -3355,6 +3547,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837499908685850}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837499908685851
 Animator:
   serializedVersion: 4
@@ -3527,6 +3727,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500074550872}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500074550873
 Animator:
   serializedVersion: 4
@@ -3659,6 +3867,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500096657198}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500096657199
 Animator:
   serializedVersion: 4
@@ -3791,6 +4007,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500139158758}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500139158759
 Animator:
   serializedVersion: 4
@@ -3923,6 +4147,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500203797984}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500203797985
 Animator:
   serializedVersion: 4
@@ -4055,6 +4287,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500215345770}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500215345771
 Animator:
   serializedVersion: 4
@@ -4187,6 +4427,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500301348286}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500301348275
 Animator:
   serializedVersion: 4
@@ -4319,6 +4567,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500407763066}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500407763067
 Animator:
   serializedVersion: 4
@@ -4451,6 +4707,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500423773355}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500423773356
 Animator:
   serializedVersion: 4
@@ -4583,6 +4847,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500476195635}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500476195636
 Animator:
   serializedVersion: 4
@@ -4715,6 +4987,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500599688883}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500599688884
 Animator:
   serializedVersion: 4
@@ -4847,6 +5127,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500608425999}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500608425984
 Animator:
   serializedVersion: 4
@@ -4979,6 +5267,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500611972390}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500611972391
 Animator:
   serializedVersion: 4
@@ -5111,6 +5407,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500678887760}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500678887761
 Animator:
   serializedVersion: 4
@@ -5243,6 +5547,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500694037434}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500694037435
 Animator:
   serializedVersion: 4
@@ -5375,6 +5687,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500733286372}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500733286373
 Animator:
   serializedVersion: 4
@@ -5507,6 +5827,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500756106688}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500756106689
 Animator:
   serializedVersion: 4
@@ -5673,6 +6001,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500943516626}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500943516627
 Animator:
   serializedVersion: 4
@@ -5862,6 +6198,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837500991465618}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837500991465619
 Animator:
   serializedVersion: 4
@@ -5994,6 +6338,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837501028095592}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837501028095593
 Animator:
   serializedVersion: 4
@@ -6126,6 +6478,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837501049063050}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837501049063051
 Animator:
   serializedVersion: 4
@@ -6258,6 +6618,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837501094975618}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837501094975619
 Animator:
   serializedVersion: 4
@@ -6390,6 +6758,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 4125837501113839825}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &4125837501113839826
 Animator:
   serializedVersion: 4

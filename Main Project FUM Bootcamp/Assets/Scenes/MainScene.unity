@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.003887365, g: 0, b: 0.011881632, a: 1}
+  m_IndirectSpecularColor: {r: 0.0038854142, g: 0, b: 0.011846461, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -17068,7 +17068,7 @@ MonoBehaviour:
   locked: 1
   lockPosition: {fileID: 1279562989}
   rb: {fileID: 1761577149}
-  startForce: -200
+  startForce: -280
   music: {fileID: 2110228912}
   player: {fileID: 865668777}
   deathEffect: {fileID: 130346, guid: 07bf9ced87963e24299c2c2a22bfeeb6, type: 3}
@@ -22093,7 +22093,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &2110228912
 AudioSource:
   m_ObjectHideFlags: 0

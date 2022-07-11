@@ -175,6 +175,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 5330700146427665593}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &3516206489136706389
 Animator:
   serializedVersion: 4
@@ -308,6 +316,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 2630328539111280130}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &8938367158666195241
 Animator:
   serializedVersion: 4
@@ -441,6 +457,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 5277724773875687971}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &6683318787436712423
 Animator:
   serializedVersion: 4
@@ -672,6 +696,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 7786136365236581359}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &3081758272261668930
 Animator:
   serializedVersion: 4
@@ -836,6 +868,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tr: {fileID: 1372268178224945988}
+  FourLives: {fileID: 2100000, guid: fb66505c63c0a564eb06ffab2ba62d2f, type: 2}
+  ThreeLives: {fileID: 2100000, guid: 51fb21d8e4487904b8d453dde818aa16, type: 2}
+  TwoLives: {fileID: 2100000, guid: 4774a83d2bb1d544db84fa7f088fda30, type: 2}
+  oneLife: {fileID: 2100000, guid: 289f8e81c7c087b4b91b28ac58df4c37, type: 2}
+  fireBall: {fileID: 2100000, guid: 8f6b9b631f72b3847a1d401b3d77aa5a, type: 2}
+  lockAndLaunch: {fileID: 2100000, guid: 58e90eff0ffc7e54084cc2774a3e4977, type: 2}
+  lifeBlock: {fileID: 2100000, guid: e1f15933832cc374699aef48dd25ac4f, type: 2}
+  ballInc: {fileID: 2100000, guid: 777d6c8870d58304cac6192c4ca61e08, type: 2}
 --- !u!95 &6855660633632931203
 Animator:
   serializedVersion: 4

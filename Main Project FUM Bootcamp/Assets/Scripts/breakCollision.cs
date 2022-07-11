@@ -18,10 +18,14 @@ public class breakCollision : MonoBehaviour
         Vector3 startingPos = transform.position;
         if (col.gameObject.tag == "Block")
         {
-            Destroy(col.gameObject);
-            Instantiate(breakParticle, col.gameObject.transform.position, Quaternion.identity);
             score += 1;
             scoreText.text = score.ToString();
+            col.gameObject.GetComponent<cubeMovement>().ChangeLife();
+            if (col.gameObject.GetComponent<cubeMovement>().lives == 0) 
+            {
+            Destroy(col.gameObject);
+            }
+            Instantiate(breakParticle, col.gameObject.transform.position, Quaternion.identity);
 /*            if (startingPos.z > endingPos.z)
              rb.AddForce(0, 0, 40);
             else
